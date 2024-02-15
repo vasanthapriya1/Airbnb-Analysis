@@ -1,16 +1,13 @@
 # Airbnb-Analysis
 Analysis on Airbnb data using Python, Plotly and Created interactive dashboard using Tableau_Public
 
-# Overview
-The Airbnb Data Analysis and Visualization project is a comprehensive data exploration and presentation effort. It involves data collection, preprocessing, ETL work, and the creation of an interactive Streamlit user interface. The project aims to provide insights and make Airbnb data more accessible and understandable.
-
 # Features
-- Data Collection: Gathered Airbnb data from various sources, including MongoDB.
+- Data Collection: Gathered Airbnb data from MongoDB.
 - Data Preprocessing: Cleaned and prepared the data for analysis. 
 - ETL (Extract, Transform, Load): Converted data from MongoDB to structured DataFrames.
 - Exploratory Data Analysis (EDA): Performed in-depth analysis and visualization of Airbnb data.
 - Interactive Streamlit UI: Developed a user-friendly interface for data exploration and presentation.
-- Tableau Dashboard : Interactive eye-catching dashboard with awesome filter
+- Tableau Dashboard : Interactive eye-catching dashboard using filter
 
 # Methods
 - Data Collection: Web scraping,database queries.
