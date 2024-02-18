@@ -29,3 +29,6 @@ Analysis on Airbnb data using Python, Plotly and Created interactive dashboard u
 - The project provides a user-friendly interface for exploring Airbnb data.
 - Insights and trends in the Airbnb market are presented through interactive charts and visualizations.
 - Data is cleaned, organized, and ready for further analysis.
+
+# Tableau Link
+-Link :- https://public.tableau.com/app/profile/vasanthapriya.r5605/viz/Airbnbtb/AirbnbDashboard?publish=yes
